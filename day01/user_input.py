@@ -1,0 +1,12 @@
+name = input('Enter your name:\n')
+age = int(input('Enter your age:\n'))
+gpa = float(input('Enter your gpa:\n'))
+boolean_value = bool(input('Enter true or false:\n'))
+print(name)
+print(help(input))
+print(int(age) + 5)
+print(type(name))
+
+print(type(age))
+print(gpa)
+print(boolean_value)
